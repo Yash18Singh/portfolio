@@ -20,6 +20,16 @@ export const Work = [
     },
     {
         id:3,
+        name:"Shooting Game",
+        description:"Simple space shooting game using HTML Canvas and JavaScript",
+        tags:["html","canvas","javascript","gsap"],
+        
+        demo:"https://canvas-shooting-game-mu.vercel.app/",
+        github:"https://github.com/Yash18Singh/canvas-shooting-game"
+        
+    },
+    {
+        id:4,
         name:"Toronto Cupcake",
         description:"It is a designed cupcake website",
         tags:["react","css"],
@@ -28,7 +38,7 @@ export const Work = [
         github:"https://github.com/codebucks27/devto-clone"
     },
     {
-        id:4,
+        id:5,
         name:"Food Menu",
         description:"It is a website having food items with filter categories",
         tags:["react","css"],
@@ -37,7 +47,7 @@ export const Work = [
         github:"https://github.com/Yash18Singh/FOOD-MENU"
        
     },{
-        id:5,
+        id:6,
         name:"MacOS UI",
         description:"Design of MacOS",
         tags:["HTML", "CSS"],
