@@ -72,11 +72,11 @@ const AboutPage = () => {
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>    
                 <Main>
-                  I'm a 21 y/o Enthusiastic Frontend Developer located in New Delhi, India 
+                  I'm a 22 y/o Enthusiastic MERN Stack Developer located in New Delhi, India 
                   <br/><br/>
-                  I've completed my BSc (Hons.) Computer Science from Dyal Singh College, University of Delhi 
+                  I've completed my BSc (Hons.) Computer Science from Dyal Singh College, University of Delhi & pursuing Master of Computer Applications from Guru Gobind Singh Indraprastha University
                   <br/><br/>
-                  I like to explore new technologies and learn them.
+                  Like to Explore new Technologies and works on problem solving on leetcode and Data Structures & Algorithms
                   <br/><br/>
                   And I'm happy to use my potential.
                   <br/><br/>
