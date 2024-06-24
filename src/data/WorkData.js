@@ -50,6 +50,16 @@ export const Work = [
     },
     {
         id:6,
+        name:"MERN CRUD APP",
+        description:"Simple MERN app including operations like Add, Delete, Update and Retrieve data from APIs using MongoDB",
+        tags:["react","node","express","mongodb"],
+        
+        demo:"https://mern-crud-inrhbsacu-yash18singhs-projects.vercel.app",
+        github:"https://github.com/Yash18Singh/MERN-CRUD-app-frontend"
+        
+    },
+    {
+        id:7,
         name:"Toronto Cupcake",
         description:"It is a designed cupcake website",
         tags:["react","css"],
@@ -58,7 +68,7 @@ export const Work = [
         github:"https://github.com/codebucks27/devto-clone"
     },
     {
-        id:7,
+        id:8,
         name:"Food Menu",
         description:"It is a website having food items with filter categories",
         tags:["react","css"],
