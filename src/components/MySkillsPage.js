@@ -96,16 +96,17 @@ const MySkillsPage = () => {
             </Title>
 
             <Description>
-               I love to create simple and pretty designs.
+              I am passionate about creating simple, elegant, and visually appealing designs that prioritize both aesthetics and usability.
+            </Description>
+            
+            <Description>
+              <strong>I take great joy in transforming these designs into clean, functional code that brings ideas to life on the web.</strong>
+            </Description>
+            
+            <Description>
+              <strong>Tools I Master:</strong> I work with a range of modern tools, including <em>CSS</em>, <em>Styled Components</em>, <em>TailwindCSS</em>, <em>Material-UI</em>, and <em>Figma</em>, to build responsive, interactive, and user-friendly interfaces.
             </Description>
 
-            <Description>
-              <strong>I like to convert the designs in the form of code</strong>
-            </Description>
-
-            <Description>
-              <strong>TOOLS: CSS, Styled components, TailwindCSS, Material-UI, Figma</strong>
-            </Description>
           </Main>
 
           <Main>
@@ -114,16 +115,17 @@ const MySkillsPage = () => {
             </Title>
 
             <Description>
-               I can create functional frontend website using my skills
+              I specialize in building highly functional web and mobile applications, transforming concepts into seamless user experiences with my technical expertise.
+            </Description>
+            
+            <Description>
+              <strong>Core Skills:</strong> With proficiency in <em>ReactJS</em>, <em>React Native</em>, <em>NextJS</em>, <em>HTML</em>, <em>JavaScript</em>, <em>Redux</em>, <em>NodeJS</em>, <em>ExpressJS</em>, <em>MongoDB</em>, <em>Strapi</em>, and <em>MySQL</em>, I am well-equipped to develop full-stack applications and dynamic, scalable solutions.
+            </Description>
+            
+            <Description>
+              <strong>Development Tools:</strong> I use <em>VSCode</em> for efficient coding, <em>Git</em> and <em>GitHub</em> for version control, and deploy applications seamlessly through <em>Vercel</em> to ensure smooth delivery and scalability.
             </Description>
 
-            <Description>
-              <strong>SKILLS : ReactJS, NextJS, HTML, JavaScript, Redux, NodeJS, ExpressJS, MongoDB, Strapi</strong>
-            </Description>
-
-            <Description>
-              <strong>TOOLS: VSCode, Git, GitHub</strong>
-            </Description>
           </Main>
         </Box>
     </ThemeProvider>
