@@ -35,7 +35,6 @@ img{
 }
 `
 const Main =  styled.div`
-  border: 2px solid ${(props) => props.theme.text};
   color: ${(props) => props.theme.text};
   padding: 2rem;
   width: 50vw;
@@ -80,7 +79,7 @@ const AboutPage = () => {
                   <br/><br/>
                   I'm excited to apply my potential to build impactful and innovative solutions in both web and mobile app development.
                   <br/><br/>
-                  **Mob**: yashwantsingh071@gmail.com
+                  **Email**: yashwantsingh071@gmail.com
                   <br/><br/>
                   **Mob**: +91-9871517759
                 </Main>
