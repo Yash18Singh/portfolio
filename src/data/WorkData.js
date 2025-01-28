@@ -1,4 +1,22 @@
 export const Work = [
+     {
+        id:9,
+        name:"Ezzstar",
+        description:"Web3 Project",
+        tags:["reactjs", 'css', 'tailwind']
+        
+        demo:"https://ezzstar.space",
+        github:"https://ezzstar.space"
+    },
+    {
+        id:10,
+        name:"SHOPSTIC",
+        description:"An e-commerce website with login functionality and cart system and checkout system",
+        tags:["reactjs", 'css', 'tailwind', 'nodejs']
+        
+        demo:"https://ecommerce-fullstack-web-app.netlify.app",
+        github:"https://ecommerce-fullstack-web-app.netlify.app"
+    },
     {
         id:1,
         name:"Nike Shoe Store",
@@ -7,6 +25,15 @@ export const Work = [
         
         demo:"https://nike-store-two.vercel.app/",
         github:"https://github.com/Yash18Singh/nike-store-frontend"
+    },
+    {
+        id:11,
+        name:"GearGrove",
+        description:"Online Bike Shopping Platform with Cart System",
+        tags:["reactjs", 'css', 'tailwind', 'nodejs']
+        
+        demo:"https://geargrove.vercel.app",
+        github:"https://geargrove.vercel.app"
     },
     {
         id:2,
