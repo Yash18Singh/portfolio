@@ -17,7 +17,7 @@ position: relative;
 display: flex;
 justify-content: space-evenly;
 align-items: center;
-
+padding:50px;
 
 `
 
