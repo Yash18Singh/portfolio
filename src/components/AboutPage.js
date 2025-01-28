@@ -72,16 +72,19 @@ const AboutPage = () => {
                     <img src={astronaut} alt="spaceman" />
                 </Spaceman>    
                 <Main>
-                  I'm a 22 y/o Enthusiastic MERN Stack Developer located in New Delhi, India 
+                  I'm a 23-year-old enthusiastic **MERN Stack Developer** and **Cross-Platform Mobile App Developer** located in **New Delhi, India**. 
                   <br/><br/>
-                  I've completed my BSc (Hons.) Computer Science from Dyal Singh College, University of Delhi & pursuing Master of Computer Applications from Guru Gobind Singh Indraprastha University
+                  I've completed my **BSc (Hons.) in Computer Science** from **Dyal Singh College**, University of Delhi, and am currently pursuing a **Master of Computer Applications** from **Guru Gobind Singh Indraprastha University**. 
                   <br/><br/>
-                  Like to Explore new Technologies and works on problem solving on leetcode and Data Structures & Algorithms
+                  I am passionate about exploring new technologies and constantly improving my skills in **problem-solving**, with a strong focus on **LeetCode**, **Data Structures**, and **Algorithms**.
                   <br/><br/>
-                  And I'm happy to use my potential.
+                  I'm excited to apply my potential to build impactful and innovative solutions in both web and mobile app development.
                   <br/><br/>
-                  Mob: +91-9871517759
+                  **Mob**: yashwantsingh071@gmail.com
+                  <br/><br/>
+                  **Mob**: +91-9871517759
                 </Main>
+
         
                 {/* <BigTitle text="ABOUT" top="10%" left="5%" /> */}
         
