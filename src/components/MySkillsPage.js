@@ -13,7 +13,7 @@ import BigTitle from '../subComponents/BigTitlte'
 const Box = styled.div`
 background-color: ${props => props.theme.body};
 width: 100vw;
-height:100vh;
+height:"100%";
 position: relative;
 display: flex;
 justify-content: space-evenly;
@@ -28,7 +28,6 @@ color: ${props => props.theme.text};
 background-color: ${props => props.theme.body};
 padding: 2rem;
 width: 30vw;
-height: 60vh;
 z-index:3;
 line-height: 1.5;
 cursor: pointer;
