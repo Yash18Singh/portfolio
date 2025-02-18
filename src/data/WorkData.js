@@ -8,6 +8,15 @@ export const Work = [
         demo:"https://ezzstar.space",
         github:"https://ezzstar.space"
     },
+     {
+        id:12,
+        name:"Amour Dating App",
+        description:"A full stack mobile dating app created using React native with functionalities like Profile Creation, Login, Match with Profiles, Chat, Profile Editing",
+        tags:["react-native", 'node.js', 'express.js', 'mongoDB', 'socket.io'],
+        
+        demo:"https://drive.google.com/drive/u/2/folders/16ids45swmPC0lBGoNFECXZTH9Jw7P1LK",
+        github:"https://github.com/Yash18Singh/Amour-Dating-App"
+    },
     {
         id:10,
         name:"SHOPSTIC",
