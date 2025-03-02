@@ -3,7 +3,7 @@ export const Work = [
         id:13,
         name:"Momento",
         description:"A full stack social media mobile app with functionalities like Posts and Stories Upload, Add/Remove friends, Real Time Chatting, Interaction with Posts and more",
-        tags:["react-native", 'node.js', 'express.js', 'mongoDB', 'socket.io'],
+        tags:["react-native", 'node.js', 'express.js', 'mongoDB', 'socket.io', 'cloudinary'],
         
         demo:"https://drive.google.com/drive/u/2/folders/1w6ySCjPKZ7gevphromUd9qpCK6YlArtY",
         github:"https://github.com/Yash18Singh/Momento"
@@ -39,7 +39,7 @@ export const Work = [
         id:1,
         name:"Nike Shoe Store",
         description:"It is an e-commerce website having nike shoes coming from headless CMS backend with categories and cart system using redux with stripe payment gateway",
-        tags:["nextjs", 'reactjs', 'redux', 'tailwindcss', 'strapi', 'stripe'],
+        tags:["nextjs", 'reactjs', 'redux', 'tailwindcss', 'strapi', 'stripe', 'cloudinary'],
         
         demo:"https://nike-store-two.vercel.app/",
         github:"https://github.com/Yash18Singh/nike-store-frontend"
