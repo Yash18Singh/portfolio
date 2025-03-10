@@ -26,6 +26,15 @@ export const Work = [
         demo:"https://drive.google.com/drive/u/2/folders/16ids45swmPC0lBGoNFECXZTH9Jw7P1LK",
         github:"https://github.com/Yash18Singh/Amour-Dating-App"
     },
+       {
+        id:14,
+        name:"Dishcovery",
+        description:"an intuitive and user-friendly mobile application that simplifies meal preparation by helping users discover recipes based on available ingredients. Designed with React Native, it features a dynamic user interface optimized for responsiveness and seamless navigation.",
+        tags:["react-native", 'react-native-reanimated', 'API'],
+        
+        demo:"https://drive.google.com/drive/folders/1Y-n90MEOMXNKtUkMen3Td1YM1yoX0Y2q",
+        github:"https://github.com/Yash18Singh/Food-Recipe-App"
+    },
     {
         id:10,
         name:"SHOPSTIC",
