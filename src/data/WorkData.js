@@ -33,7 +33,7 @@ export const Work = [
         tags:["react-native", 'react-native-reanimated', 'API'],
         
         demo:"https://drive.google.com/drive/folders/1Y-n90MEOMXNKtUkMen3Td1YM1yoX0Y2q",
-        github:"https://github.com/Yash18Singh/Food-Recipe-App"
+        github:"https://github.com/Yash18Singh/Dishcovery"
     },
     {
         id:10,
