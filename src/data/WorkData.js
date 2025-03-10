@@ -29,7 +29,7 @@ export const Work = [
        {
         id:14,
         name:"Dishcovery",
-        description:"an intuitive and user-friendly mobile application that simplifies meal preparation by helping users discover recipes based on available ingredients. Designed with React Native, it features a dynamic user interface optimized for responsiveness and seamless navigation.",
+        description:"An intuitive and user-friendly mobile application with animations that helps users discover recipes based on available ingredients",
         tags:["react-native", 'react-native-reanimated', 'API'],
         
         demo:"https://drive.google.com/drive/folders/1Y-n90MEOMXNKtUkMen3Td1YM1yoX0Y2q",
